@@ -1,1 +1,1 @@
- 
+console.log("dota melhor que lol");
